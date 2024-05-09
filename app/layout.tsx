@@ -27,7 +27,7 @@ export default function RootLayout({
               <Link href={"/blog"}>blog</Link>
             </li>
             <li>
-              <Link href={"/showcase"}>showcase</Link>
+              <Link href={"/todos"}>todos</Link>
             </li>
           </ul>
         </nav>
